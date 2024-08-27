@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emma Thompson",
+        "subject": "Physics",
+        "stars": 5,
+        "review": "Dr. Thompson's lectures are engaging and she explains complex concepts clearly. Always available for office hours."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 4,
+        "review": "Challenging coursework, but Prof. Chen is helpful when you ask questions. Great real-world examples."
+      },
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Lectures can be dry, but the content is interesting. Wish there were more interactive elements in class."
+      },
+      {
+        "professor": "Prof. David Lee",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Prof. Lee's passion for math is contagious. His problem-solving techniques have been invaluable."
+      },
+      {
+        "professor": "Dr. Rachel Green",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Engaging labs and field trips. Dr. Green's research experience adds depth to the course material."
+      },
+      {
+        "professor": "Prof. Robert Brown",
+        "subject": "History",
+        "stars": 2,
+        "review": "Knowledgeable, but lectures are hard to follow. Grading seems inconsistent at times."
+      },
+      {
+        "professor": "Dr. Lisa Wang",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Dr. Wang's enthusiasm for chemistry is infectious. Her demos make complex reactions understandable."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "English Literature",
+        "stars": 3,
+        "review": "Insightful analysis of texts, but sometimes goes off on tangents. Essay feedback is helpful."
+      },
+      {
+        "professor": "Dr. Maria Garcia",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Dr. Garcia brings current events into discussions, making the course very relevant. Heavy workload though."
+      },
+      {
+        "professor": "Prof. John Smith",
+        "subject": "Economics",
+        "stars": 2,
+        "review": "Seems knowledgeable but struggles to explain concepts clearly. Office hours are not very helpful."
+      },
+      {
+        "professor": "Dr. Emily Tanner",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Tanner's passion for art is evident. Her virtual museum tours are a highlight of the course."
+      },
+      {
+        "professor": "Prof. Alex Nguyen",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Encourages healthy debates in class. Prof. Nguyen presents balanced views on controversial topics."
+      },
+      {
+        "professor": "Dr. Samuel White",
+        "subject": "Philosophy",
+        "stars": 3,
+        "review": "Interesting material, but Dr. White can be intimidating when asking questions. Grading is fair."
+      },
+      {
+        "professor": "Prof. Olivia Martinez",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Prof. Martinez organizes great field trips. Her course has changed how I view environmental issues."
+      },
+      {
+        "professor": "Dr. Thomas Clark",
+        "subject": "Mechanical Engineering",
+        "stars": 4,
+        "review": "Challenging course, but Dr. Clark is always willing to help. The practical projects are excellent."
+      },
+      {
+        "professor": "Prof. Anna Kowalski",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Prof. Kowalski makes language study fascinating. Her examples from various cultures are eye-opening."
+      },
+      {
+        "professor": "Dr. Kevin Patel",
+        "subject": "Business Administration",
+        "stars": 3,
+        "review": "Good real-world examples, but lectures can be monotonous. Group projects are well-structured."
+      },
+      {
+        "professor": "Prof. Laura Schmidt",
+        "subject": "Geology",
+        "stars": 4,
+        "review": "Prof. Schmidt's field trips are the highlight of the course. Exams are challenging but fair."
+      },
+      {
+        "professor": "Dr. Mark Taylor",
+        "subject": "Music Theory",
+        "stars": 2,
+        "review": "Knowledgeable but often seems unprepared for class. Assignments are returned late with little feedback."
+      },
+      {
+        "professor": "Prof. Jennifer Adams",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Prof. Adams brings anthropology to life with her storytelling. Research opportunities are fantastic."
+      }
+    ]
+  }
